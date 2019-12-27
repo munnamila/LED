@@ -17,3 +17,6 @@ echo 2 > /dev/myled0//blink LED
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
+
+## Demo video
+https://www.youtube.com/watch?v=8xGiibNchpE
