@@ -1,4 +1,4 @@
-# LED PROJECT
+# LED project
 This programming is used to turn on, turn off and blink LED.
 
 For this you need a Raspberry Pi3, LEDs, resistences, jumpwires, a breadboard. 
