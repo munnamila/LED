@@ -26,7 +26,7 @@ echo 2 > /dev/myled0//blink LED
 [MIT](https://choosealicense.com/licenses/mit/)
 
 ## Contribution
-pull requests are welcome.
+Pull requests are welcome.
 
 ## Demo video
 https://www.youtube.com/watch?v=8xGiibNchpE
