@@ -17,8 +17,8 @@ sudo chmod 666 /dev/myled0
 ```
 
 ```c
-echo 1 > /dev/myled0//turn off LED
-echo 0 > /dev/myled0//thrn on LED
+echo 0 > /dev/myled0//turn off LED
+echo 1 > /dev/myled0//thrn on LED
 echo 2 > /dev/myled0//blink LED
 ```
 
