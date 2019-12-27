@@ -11,7 +11,7 @@ Pins uesd this time is GPIO 24 and Ground.
 ## Usage
 ```bash
 make
-sudo rrmod myled
+sudo rmmod myled
 sudo insmod myled.ko
 sudo chmod 666 /dev/myled0
 ```
