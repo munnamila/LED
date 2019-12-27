@@ -1,6 +1,12 @@
 # LED PROJECT
 This programming is used to turn on, turn off and blink LED.
-For this you need a Raspberry Pi(I used a Raspberry Pi3), LEDs, resistences, jump wires, a breadboard. 
+
+For this you need a Raspberry Pi3, LEDs, resistences, jumpwires, a breadboard. 
+
+## Electric circuit
+Use jumpwires and tesistences to connet Raspberry Pi3 and LED. 
+
+Pins uesd this time is GPIO 24 and Ground.
 
 ## Usage
 ```bash
