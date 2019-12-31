@@ -23,7 +23,7 @@ echo 2 > /dev/myled0//blink LED
 ```
 
 ## License
-[MIT](https://choosealicense.com/licenses/mit/)
+GNU General Public License v3.0
 
 ## Contribution
 Pull requests are welcome.
